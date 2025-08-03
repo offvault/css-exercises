@@ -1,0 +1,23 @@
+/* Base style for all odd-numbered elements */
+.odd {
+  background-color: #ffccd5; /* light red/pink */
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+/* Style for the second element (unique ID) */
+#second {
+  color: rgb(0, 100, 255); /* blue text */
+  font-size: 36px;
+}
+
+/* Additional style for number 3 (odd + cooler) */
+.cooler {
+  font-size: 24px;
+}
+
+/* Style for the fourth element (unique ID) */
+#fourth {
+  background-color: hsl(120, 50%, 80%); /* light green */
+  font-size: 24px;
+  font-weight: bold;
+}
