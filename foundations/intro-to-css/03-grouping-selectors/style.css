@@ -1,0 +1,14 @@
+
+.btn-primary, .btn-warning {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btn-primary {
+  background-color: #000;
+  color: rgb(255, 255, 255);
+}
+
+.btn-warning {
+  background-color: hsl(60, 100%, 50%);
+}
